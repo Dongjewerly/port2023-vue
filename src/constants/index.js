@@ -40,3 +40,50 @@ export const headerNav = [
       desc:"정직은 다른 사람보다 나에게 큰 의미를 부여해야 한다. 자신이 정직하지 않으면 진정으로 원하는 일을 열정적으로 밀고 나갈 수 없다. 마음에서 우러나오는 일을 해야 정직해지며 삶을 더 즐길 줄 알게 된다."
     },
 ];
+
+export const siteText = [
+  {
+    text:["Make","site compliant with","webstandard"],
+    title:"Vite를 이용한 사이트 제작",
+    code:"https://port2023vite.netlify.app",
+    view:"https://port2023vite.netlify.app",
+    info:[
+      "site coding",
+      "production period : two days",
+      "use stack : vue.js, html5/css3, CSS Variable, Vite"
+    ],
+  },
+  {
+    text:["Make","site compliant with","react.js"],
+    title:"React를 이용한 사이트 제작",
+    code:"https://port2023vite.netlify.app",
+    view:"https://port2023vite.netlify.app",
+    info:[
+      "site coding",
+      "production period : two days",
+      "use stack : React.js,  html5/css3, CSS Variable, React"
+    ],
+  },
+  {
+    text:["Make","site compliant with","vue.js"],
+    title:"Vue를 이용한 사이트 제작",
+    code:"https://port2023vite.netlify.app",
+    view:"https://port2023vite.netlify.app",
+    info:[
+      "site coding",
+      "production period : two days",
+      "use stack : Vue.js, html5/css3, CSS Variable, Vue"
+    ],
+  },
+  {
+    text:["Make","site compliant with","next.js"],
+    title:"NEXT를 이용한 사이트 제작",
+    code:"https://port2023vite.netlify.app",
+    view:"https://port2023vite.netlify.app",
+    info:[
+      "site coding",
+      "production period : two days",
+      "use stack : NEXT.js, html5/css3, CSS Variable"
+    ],
+  },
+]
