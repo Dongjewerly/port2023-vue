@@ -201,3 +201,14 @@ export const portText = [
       name: "포트폴리오",
   },
 ];
+
+export const contactText = [
+  {
+      link:"https://blog.naver.com/dongseog_you/223434116836",
+      title:"KAKAO : DongSeok, Yu",
+  },
+  {
+      link:"https://blog.naver.com/dongseog_you/223434116836",
+      title:"NAVER : dongseog_you@naver.com",
+  }
+]; 
